@@ -1,0 +1,13 @@
+.Header_wrapper {
+    height: 60px;
+    background-color: #fcfcfc;
+    // background-color: #d3d3d3;
+    display: flex;
+    align-items: center;
+    padding: 0 60px;
+    .logo {
+        font-size: 24px;
+        font-weight: 600;
+        user-select: none;
+    }
+}
